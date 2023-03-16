@@ -12,5 +12,7 @@ public class Main {
         System.out.println("Seu nome é " + orangotango.getNome());
         orangotango.setAcordado(true);
         orangotango.getAcordado();
+
+        System.out.println("Este é um teste");
       }
     }
