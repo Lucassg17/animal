@@ -14,5 +14,6 @@ public class Main {
         orangotango.getAcordado();
 
         System.out.println("Este é um teste");
+        System.out.println("Segundo Teste");
       }
     }
